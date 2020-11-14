@@ -1,7 +1,7 @@
 # Case-study #2
-# Developers:   Dokukina K. (%),
-#               Nazirova E. (%),
-#               Shevchenko V. (%)
+# Developers:   Dokukina K. (50%),
+#               Nazirova E. (25%),
+#               Shevchenko V. (25%)
 
 
 # string constants
