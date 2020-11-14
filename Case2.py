@@ -40,4 +40,3 @@ if status == 'one subject':
         N = 0.1 * (9076 - 0) + 0.15 * (36901 - 9076) + 0.25 * (89351 - 36901) + 0.28 * (186351 - 89351) + 0.33 * (
                 405101 - 186351) + 0.35 * (406751 - 405101) + 39.6 * (annual_income - 406751)
         print('Tax amount:', N)
-elif status == 'married couple':
