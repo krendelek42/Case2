@@ -1,3 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 elif status == 'married couple':
     if 0 <= annual_income <= 18150:
         N = 0.1 * (annual_income - 0)
